@@ -1,40 +1,42 @@
-# Hi, I'm Igor 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Igor Strelchenya, Backend Software Engineer, Java and Kotlin" src="assets/hero-dark.svg" width="100%">
+</picture>
 
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=strelchenya&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=strelchenya&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/strelchenya/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=strelchenya&layout=compact"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-strelchenya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-igor--strelchenya-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/igor_strelchenya"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@igor__strelchenya-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
+  <a href="mailto:igor.v.strelchenya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-igor.v.strelchenya-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/igor-strelchenya/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/igor_strelchenya">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:igor.v.strelchenya@gmail.com'>igor.v.strelchenya@gmail.com	</a>
+### About
+
+Backend engineer building distributed server-side systems in Java and Kotlin. Most of my work sits on integration-heavy platforms where reliability, data consistency and performance come first: payment providers, banking systems, e-commerce platforms, credit bureaus and analytics vendors.
+
+### What I work on
+
+- **Distributed backends**: Java and Kotlin microservices on Spring Boot, WebFlux and Project Reactor
+- **Integrations**: external providers end to end, covering contract design, idempotency, retries and production support
+- **Security**: Designed a PCI DSS compliant perimeter and the services running inside it
+- **Performance**: Query optimisation, asynchronous processing, multithreading
+- **Legacy**: Gradual modernisation of a monolith alongside new microservices
+- **AI in engineering**: Prompt-driven development, AI-assisted refactoring and testing, LLM features in product services
+
+### Tech stack
+
+<p>
+  <img alt="Languages and frameworks" src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,graphql">
+  <br>
+  <img alt="Data and messaging" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq">
+  <br>
+  <img alt="Infrastructure" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,grafana,prometheus,linux,gradle,maven">
 </p>
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/strelchenya/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=strelchenya&color=DE002D">
-   </a>
-</div>
+### Contributions
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strelchenya/strelchenya/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strelchenya/strelchenya/output/snake.svg">
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/strelchenya/strelchenya/output/snake-dark.svg" width="100%">
+</picture>
